@@ -1,0 +1,56 @@
+[
+    {
+        "_id": 1,
+        "name": "Teeth Orthodontics",
+        "img": "https://i.ibb.co/BL7DgLh/window.jpg",
+        "description": "Teeth Orthodontics",
+        "availableQuantity": 5000,
+        "minimumQuantity": 500,
+        "price": 20
+    },
+    {
+        "_id": 2,
+        "name": "Cosmetic Dentistry",
+        "img": "https://i.ibb.co/BL7DgLh/window.jpg",
+        "description": "Teeth Orthodontics",
+        "availableQuantity": 5000,
+        "minimumQuantity": 500,
+        "price": 20
+    },
+    {
+        "_id": 3,
+        "name": "Teeth Cleaning",
+        "description": "Teeth Orthodontics",
+        "img": "https://i.ibb.co/BL7DgLh/window.jpg",
+        "availableQuantity": 5000,
+        "minimumQuantity": 500,
+        "price": 20
+    },
+    {
+        "_id": 4,
+        "name": "Cavity Protection",
+        "description": "Teeth Orthodontics",
+        "img": "https://i.ibb.co/BL7DgLh/window.jpg",
+        "availableQuantity": 5000,
+        "minimumQuantity": 500,
+        "price": 20
+    },
+    {
+        "_id": 5,
+        "name": "Pediatric Dental",
+        "description": "Teeth Orthodontics",
+        "img": "https://i.ibb.co/BL7DgLh/window.jpg",
+        "availableQuantity": 5000,
+        "minimumQuantity": 500,
+        "price": 20
+    },
+    {
+        "_id": 6,
+        "name": "Oral Surgery",
+        "description": "Teeth Orthodontics",
+        "img": "https://i.ibb.co/BL7DgLh/window.jpg",
+        "availableQuantity": 5000,
+        "minimumQuantity": 500,
+        "price": 20
+    }
+]
