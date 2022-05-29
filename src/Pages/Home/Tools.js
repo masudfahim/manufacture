@@ -1,11 +1,13 @@
 import React, { useEffect, useState } from 'react';
 import Tool from './Tool';
 
+
 const Tools = () => {
 
     const [tools, setTool] = useState([]);
+
     useEffect(() => {
-        fetch('Services.json')
+        fetch('http://localhost:5000/service')
             .then(res => res.json())
             .then(data => setTool(data));
     }, [])
@@ -23,6 +25,9 @@ const Tools = () => {
                         tool={tool}
                     ></Tool>)
                 }
+
+
+
             </div>
         </div>
     );

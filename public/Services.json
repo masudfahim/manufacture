@@ -1,56 +1,56 @@
 [
     {
         "_id": 1,
-        "name": "Teeth Orthodontics",
-        "img": "https://i.ibb.co/BL7DgLh/window.jpg",
+        "name": "Window",
+        "img": "https://i.ibb.co/qWknvHV/window.jpg",
         "description": "Teeth Orthodontics",
         "availableQuantity": 5000,
         "minimumQuantity": 500,
-        "price": 20
+        "price": 211
     },
     {
         "_id": 2,
-        "name": "Cosmetic Dentistry",
-        "img": "https://i.ibb.co/BL7DgLh/window.jpg",
-        "description": "Teeth Orthodontics",
-        "availableQuantity": 5000,
-        "minimumQuantity": 500,
-        "price": 20
+        "name": "Tire",
+        "img": "https://i.ibb.co/H7DQN8C/tire.jpg",
+        "description": "",
+        "availableQuantity": 10000,
+        "minimumQuantity": 1000,
+        "price": 150
     },
     {
         "_id": 3,
-        "name": "Teeth Cleaning",
+        "name": "Tail light",
         "description": "Teeth Orthodontics",
-        "img": "https://i.ibb.co/BL7DgLh/window.jpg",
-        "availableQuantity": 5000,
+        "img": "https://i.ibb.co/DGJtP5w/tail-light.jpg",
+        "availableQuantity": 7000,
         "minimumQuantity": 500,
-        "price": 20
+        "price": 190
     },
     {
         "_id": 4,
-        "name": "Cavity Protection",
+        "name": "Side Mirror",
         "description": "Teeth Orthodontics",
-        "img": "https://i.ibb.co/BL7DgLh/window.jpg",
-        "availableQuantity": 5000,
+        "img": "https://i.ibb.co/8b7NQG4/side-mirror.jpg",
+        "availableQuantity": 8000,
         "minimumQuantity": 500,
-        "price": 20
+        "price": 140
     },
     {
         "_id": 5,
-        "name": "Pediatric Dental",
+        "name": "Hub Cap",
         "description": "Teeth Orthodontics",
-        "img": "https://i.ibb.co/BL7DgLh/window.jpg",
-        "availableQuantity": 5000,
-        "minimumQuantity": 500,
-        "price": 20
+        "img": "https://i.ibb.co/5KPbz8n/hubcap.jpg",
+        "availableQuantity": 10000,
+        "minimumQuantity": 400,
+        "price": 220
     },
     {
         "_id": 6,
-        "name": "Oral Surgery",
+        "name": "HeadLight",
         "description": "Teeth Orthodontics",
-        "img": "https://i.ibb.co/BL7DgLh/window.jpg",
-        "availableQuantity": 5000,
-        "minimumQuantity": 500,
-        "price": 20
+        "img": "https://i.ibb.co/T88qwSW/head-light.jpg",
+        "availableQuantity": 11000,
+        "minimumQuantity": 450,
+        "price": 120
     }
 ]
