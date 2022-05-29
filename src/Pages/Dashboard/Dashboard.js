@@ -24,9 +24,9 @@ const Dashboard = () => {
                     <li><Link to="/dashboard/order"> My Order</Link></li>
 
                     {admin && <>
-                        <li><Link to="/dashboard/users">All Users</Link></li>
-                        {/* <li><Link to="/dashboard/addDoctor">Add a Doctor</Link></li>
-                        <li><Link to="/dashboard/manageDoctor">Manage Doctors</Link></li> */}
+                        <li><Link to="/dashboard/users">Make Admin</Link></li>
+                        <li><Link to="/dashboard/manage">Manage Product</Link></li>
+
                     </>}
                 </ul>
 
